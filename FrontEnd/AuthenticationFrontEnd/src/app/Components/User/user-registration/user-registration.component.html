@@ -1,0 +1,90 @@
+<!-- Navbar -->
+<header>
+  <nav style="display: flex; justify-content: space-between; align-items: center; padding: 1rem; background-color: #f2f2f2;">
+    <div style="font-weight: bold;">AuthApp</div>
+    <div style="display: flex; gap: 1rem;">
+      <a routerLink="/" style="text-decoration: none;">Home</a>
+      <a routerLink="/login" style="text-decoration: none;">Login</a>
+      <a routerLink="/contact" style="text-decoration: none;">Contact</a>
+    </div>
+  </nav>
+</header>
+
+<!-- Title -->
+<h1 style="text-align: center; margin-top: 30px;">Register</h1>
+
+<!-- Registration Form -->
+<form *ngIf="registrationForm" [formGroup]="registrationForm" (ngSubmit)="onSubmit()">
+  
+  <!-- Username -->
+  <div class="form-group">
+    <label for="username">Username:</label>
+    <input type="text" id="username" formControlName="username" placeholder="Enter Username">
+    <div *ngIf="registrationForm.get('username')?.errors?.['required'] && registrationForm.get('username')?.touched" class="text-danger">
+      Username is required.
+    </div>
+    <div *ngIf="registrationForm.get('username')?.errors?.['maxLength']">
+      Username can't exceed 255 characters.
+    </div>
+  </div>
+
+  <!-- Email -->
+  <div class="form-group">
+    <label for="email">Email:</label>
+    <input type="email" id="email" formControlName="email" placeholder="Enter valid email">
+    <div *ngIf="registrationForm.get('email')?.errors?.['required'] && registrationForm.get('email')?.touched" class="text-danger">
+      Email is required.
+    </div>
+    <div *ngIf="registrationForm.get('email')?.errors?.['maxLength']">
+      Email must not exceed 255 characters.
+    </div>
+    <div *ngIf="registrationForm.get('email')?.errors?.['email']">
+      Invalid email format.
+    </div>
+  </div>
+
+  <!-- Phone Number -->
+  <div class="form-group">
+    <label for="phoneNumber">Phone Number:</label>
+    <input type="tel" id="phoneNumber" formControlName="phoneNumber" placeholder="Enter phone number">
+    <div *ngIf="registrationForm.get('phoneNumber')?.errors?.['required'] && registrationForm.get('phoneNumber')?.touched" class="text-danger">
+      Phone number is required.
+    </div>
+    <div *ngIf="registrationForm.get('phoneNumber')?.errors?.['pattern']">
+      Invalid phone number format. Use +92xxxxxxxxxx or 03xxxxxxxxx.
+    </div>
+  </div>
+
+  <!-- Password -->
+  <div class="form-group">
+    <label for="password">Password:</label>
+    <input type="password" id="password" formControlName="password">
+    <div *ngIf="registrationForm.get('password')?.errors?.['required'] && registrationForm.get('password')?.touched" class="text-danger">
+      Password is required.
+    </div>
+  </div>
+
+  <!-- Confirm Password -->
+  <div class="form-group">
+    <label for="confirmPassword">Confirm Password:</label>
+    <input type="password" id="confirmPassword" formControlName="confirmPassword">
+    <div *ngIf="registrationForm.errors?.['mismatch'] && registrationForm.get('confirmPassword')?.touched" class="text-danger">
+  Passwords do not match.
+</div>
+  </div>
+
+  <!-- Profile Image -->
+  <div class="form-group">
+    <label for="profileImage">Profile Image:</label>
+    <input type="file" id="profileImage" (change)="onImageSelected($event)">
+  </div>
+
+  <!-- Submit Button -->
+<button type="submit" [disabled]="registrationForm.invalid || isSubmitting">Register</button>
+</form>
+
+<!-- Footer -->
+<footer style="text-align: center; padding: 1rem; background-color: #f2f2f2; margin-top: 50px;">
+  <p>&copy; 2025 Authentication Website. All rights reserved.</p>
+  <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a>
+</footer>

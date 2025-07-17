@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\backeendauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:backeendauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\authentication\\jwttokengeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:authentication\\jwttokengeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\auotomapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:auotomapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\helpers\\passwordhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:helpers\\passwordhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\exceptions\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:exceptions\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\migrations\\userroles\\20250619190304_adduserrolerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:migrations\\userroles\\20250619190304_adduserrolerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\migrations\\userroles\\authenticationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:migrations\\userroles\\authenticationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\services\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:services\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|c:\\users\\hp\\onedrive\\desktop\\old data\\fullstackauthentication\\backeendauthentication\\customexceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8031FC3-C038-45CE-837D-02BED1158560}|BackeEndAuthentication.csproj|solutionrelative:customexceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\RegisterService.cs",
+              "RelativeDocumentMoniker": "Services\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\RegisterService.cs",
+              "RelativeToolTip": "Services\\RegisterService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAH8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:10:10.068Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:07:01.7Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T07:01:19.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T11:24:17.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T11:26:27.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Data\\AuthenticationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AuthenticationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Data\\AuthenticationDbContext.cs",
+              "RelativeToolTip": "Data\\AuthenticationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:32:21.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BackeEndAuthentication.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\BackeEndAuthentication.csproj",
+              "RelativeDocumentMoniker": "BackeEndAuthentication.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\BackeEndAuthentication.csproj",
+              "RelativeToolTip": "BackeEndAuthentication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T13:43:48.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwEkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:36:12.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEYAAAAAlpmZmZnpv1QAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:24:19.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAAEkAAADAzMzMzMwwwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:49:53.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AgIAABAAAAAAMzMzMzMLwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:27:19.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtTokenGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Authentication\\JwtTokenGeneration.cs",
+              "RelativeDocumentMoniker": "Authentication\\JwtTokenGeneration.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Authentication\\JwtTokenGeneration.cs",
+              "RelativeToolTip": "Authentication\\JwtTokenGeneration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:44:37.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAADMAAAAAzszMzMz8vzkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:51:26.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\DTO\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RegisterUserDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\DTO\\RegisterUserDTO.cs",
+              "RelativeToolTip": "DTO\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:19:56.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\AuotoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AuotoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\AuotoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "AuotoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:15:55.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:54:35.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:58:13.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PasswordHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Helpers\\PasswordHelpers.cs",
+              "RelativeDocumentMoniker": "Helpers\\PasswordHelpers.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Helpers\\PasswordHelpers.cs",
+              "RelativeToolTip": "Helpers\\PasswordHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:53:52.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwD4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:22:03.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InvalidPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidPasswordException.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidPasswordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:32:52.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAACgAAACAzMzMzMwswDoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:26:32.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InvalidEmailException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Exceptions\\InvalidEmailException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidEmailException.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Exceptions\\InvalidEmailException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidEmailException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:31:08.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAACgzMzMzMwuwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:32:48.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:41:14.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250619190304_AddUserRoleRelation.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Migrations\\UserRoles\\20250619190304_AddUserRoleRelation.cs",
+              "RelativeDocumentMoniker": "Migrations\\UserRoles\\20250619190304_AddUserRoleRelation.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Migrations\\UserRoles\\20250619190304_AddUserRoleRelation.cs",
+              "RelativeToolTip": "Migrations\\UserRoles\\20250619190304_AddUserRoleRelation.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:03:30.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthenticationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Migrations\\UserRoles\\AuthenticationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\UserRoles\\AuthenticationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Migrations\\UserRoles\\AuthenticationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\UserRoles\\AuthenticationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:03:28.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Helpers\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Helpers\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Helpers\\ApiResponse.cs",
+              "RelativeToolTip": "Helpers\\ApiResponse.cs",
+              "ViewState": "AgIAAAMAAAAoMzMzMzMwwAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:28:37.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:34:27.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "Services\\IRegisterService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\Services\\IRegisterService.cs",
+              "RelativeToolTip": "Services\\IRegisterService.cs",
+              "ViewState": "AgIAAAcAAAAAMzMzMzMLwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:58:24.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\CustomExceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "CustomExceptions\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Old Data\\FullStackAuthentication\\BackeEndAuthentication\\CustomExceptions\\ConflictException.cs",
+              "RelativeToolTip": "CustomExceptions\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:31:24.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

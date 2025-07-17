@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FullStackAuthentication\\BackeEndAuthentication\\wwwroot\\assets\\1aeb21c0-3e36-4b27-a4fd-57fc0bfb9344.jpg",
+      "PackagePath": "staticwebassets\\assets\\1aeb21c0-3e36-4b27-a4fd-57fc0bfb9344.jpg"
+    },
+    {
+      "Id": "D:\\FullStackAuthentication\\BackeEndAuthentication\\wwwroot\\assets\\37fc0478-8752-4106-a6ed-8ec0f0da2a5a.jpg",
+      "PackagePath": "staticwebassets\\assets\\37fc0478-8752-4106-a6ed-8ec0f0da2a5a.jpg"
+    },
+    {
+      "Id": "D:\\FullStackAuthentication\\BackeEndAuthentication\\wwwroot\\assets\\c12fe083-d7f9-4ffe-9a7e-f8dda248f76d.jpg",
+      "PackagePath": "staticwebassets\\assets\\c12fe083-d7f9-4ffe-9a7e-f8dda248f76d.jpg"
+    },
+    {
+      "Id": "D:\\FullStackAuthentication\\BackeEndAuthentication\\wwwroot\\assets\\defualt_img.jpg",
+      "PackagePath": "staticwebassets\\assets\\defualt_img.jpg"
+    },
+    {
+      "Id": "D:\\FullStackAuthentication\\BackeEndAuthentication\\wwwroot\\assets\\f3f77226-0d20-40f7-85da-2c68fcc1ffe6.GIF",
+      "PackagePath": "staticwebassets\\assets\\f3f77226-0d20-40f7-85da-2c68fcc1ffe6.GIF"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BackeEndAuthentication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BackeEndAuthentication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BackeEndAuthentication.props",
+      "PackagePath": "build\\BackeEndAuthentication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BackeEndAuthentication.props",
+      "PackagePath": "buildMultiTargeting\\BackeEndAuthentication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BackeEndAuthentication.props",
+      "PackagePath": "buildTransitive\\BackeEndAuthentication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

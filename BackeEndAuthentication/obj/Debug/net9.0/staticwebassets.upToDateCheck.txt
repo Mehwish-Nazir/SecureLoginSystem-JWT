@@ -1,0 +1,6 @@
+wwwroot\assets\1aeb21c0-3e36-4b27-a4fd-57fc0bfb9344.jpg
+wwwroot\assets\37fc0478-8752-4106-a6ed-8ec0f0da2a5a.jpg
+wwwroot\assets\c12fe083-d7f9-4ffe-9a7e-f8dda248f76d.jpg
+wwwroot\assets\defualt_img.jpg
+wwwroot\assets\f3f77226-0d20-40f7-85da-2c68fcc1ffe6.GIF
+wwwroot\assets\87223e41-f9c6-46f9-b691-d8015a78ed2d.png

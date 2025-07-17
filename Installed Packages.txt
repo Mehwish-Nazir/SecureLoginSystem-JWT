@@ -1,0 +1,44 @@
+
+// TO auto mapping 
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
+
+//Swagger UI 
+dotnet add package Swashbuckle.AspNetCore
+
+dotnet add package BCrypt.Net-Next
+ //For password hashing algorithm
+dotnet add package Isopoh.Cryptography.Argon2
+
+dotnet add package Microsoft.AspNetCore.Mvc.NewtonsoftJson
+
+
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+
+//Optional (for RS256):
+dotnet add package System.IdentityModel.Tokens.Jwt
+
+dotnet add package Microsoft.EntityFrameworkCore
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+//Enables CLI commands like migrations
+
+
+dotnet add package Microsoft.EntityFrameworkCore.Tools    
+
+
+///➕ Optional (if using migrations):
+
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+//If you're writing manual SQL queries with SqlConnection, SqlCommand, etc.
+
+📦 Required Package:
+
+
+dotnet add package System.Data.SqlClient
+
+//For mail setup to sed Mail
+
+dotnet add package MailKit
+
